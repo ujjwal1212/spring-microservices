@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "movie-catalog-service"
+		},
+		{
+			"path": "movie-info-service"
+		},
+		{
+			"path": "rating-data-service"
+		},
+		{
+			"path": "discovery-server"
+		},
+		{
+			"path": "..\\demo"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
